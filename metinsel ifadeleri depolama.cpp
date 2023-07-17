@@ -4,13 +4,13 @@
 int main()
 {
 	char MyNumber = 99;
-	printf("Karakterimizin say�sal de�eri : %d \n" , MyNumber);
-	printf("Karakterimizin ASCII de�eri: %c\n\n" , MyNumber);
+	printf("Karakterimizin sayisal degeri : %d \n" , MyNumber);
+	printf("Karakterimizin ASCII degeri: %c\n\n" , MyNumber);
 	
 	// 51 sayisi ASCII tablosunda 3 rakamina eslik eder
 	char MyNumber1 = 51;
-	printf("Karakterimizin say�sal de�eri : %d \n" , MyNumber1);
-	printf("Karakterimizin ASCII de�eri: %c\n\n" , MyNumber1);
+	printf("Karakterimizin sayisal degeri : %d \n" , MyNumber1);
+	printf("Karakterimizin ASCII degeri: %c\n\n" , MyNumber1);
 	
 	//eger bir kelime dizisi tanimlamak istersek %s kullanmamiz gerekir
 	
