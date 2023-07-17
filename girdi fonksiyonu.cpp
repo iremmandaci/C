@@ -18,7 +18,7 @@ int main()
 	printf("\nDairenin yaricapini giriniz:"); scanf("%f" , &r);
 	circumference = 2*PI*r;
 	area = PI*pow(r,2);
-	printf("Dairenin cevresi : %f Dairenin alani : %f dır" , circumference , area);
+	printf("Dairenin cevresi : %f Dairenin alani : %f dir" , circumference , area);
 		
 	return 0;
 	
